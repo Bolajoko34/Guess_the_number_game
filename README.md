@@ -4,6 +4,8 @@
 
   -----------
   ## Concept covered
-  Conditional statements/control flow/logical statement
-  For loops
-  Function
+  -Conditional statements/control flow/logical statement
+ 
+  -For loops
+ 
+  -Function
